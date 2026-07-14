@@ -1,0 +1,4 @@
+model: "your model name"
+instructions: "Summarize the provided text in 3–4 sentences. Include only the most important information; do not add your own opinions or new facts. Keep it concise and clear."
+maxtoken: 1000
+temperature: 0.3
